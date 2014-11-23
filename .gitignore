@@ -46,3 +46,4 @@ Temporary Items
 *.project
 **/.settings/
 **/Debug/
+**/.metadata/
